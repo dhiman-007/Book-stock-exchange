@@ -1,0 +1,1 @@
+// For Async Logging - https://memorynotfound.com/create-configure-log4j2-async-logger/
